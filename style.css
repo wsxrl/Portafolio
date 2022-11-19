@@ -1,0 +1,25 @@
+body
+{
+    text-align: center;
+}
+h1
+{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#apps
+{
+    background-color: darkmagenta;
+}
+.linea
+{
+    height: 6px;
+    background-color: black;
+    width: 50%;
+    margin: 8px auto;
+}
+#chat
+{
+    background-color: darkslategray;
+}
